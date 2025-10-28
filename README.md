@@ -1,6 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CD4D79&width=435&lines=Bem-vindos+ao+meu+perfil!+%F0%96%B9%AD)](https://git.io/typing-svg)
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=beatrizmoraeshub&show_icons=true&theme=rose&cache_seconds=2300" alt="ilustração do status do github">
 
-### Olá, meu nome é Beatriz!˖˚⊹ ꣑ৎ‎
+### Olá, meu nome é Beatriz˖˚⊹ ꣑ৎ‎
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&color=e9d8d4&style=for-the-badge&logoColor=white)](https://discord.gg/binhatiz) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&color=e9d8d4&style=for-the-badge&logoColor=white)](mailto:beatrizmarquesdem@gmail.com) 𐔌՞. .՞𐦯
