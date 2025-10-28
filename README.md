@@ -2,15 +2,14 @@
 
 ### Olá, meu nome é Beatriz!˖˚⊹ ꣑ৎ‎
 
-<img src="https://img.shields.io/badge/Gmail-D14836?&color=e9d8d4&style=for-the-badge&logo=gmail&logoColor=white" > 𐔌՞. .՞𐦯
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&color=e9d8d4&style=for-the-badge&logoColor=white)](https://discord.gg/binhatiz) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&color=e9d8d4&style=for-the-badge&logoColor=white)](mailto:beatrizmarquesdem@gmail.com) 𐔌՞. .՞𐦯
 
 <p>Iniciando no curso de CC<br/> Eu sou desenvolvedora em busca de conhecimento</p>
 
 ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
